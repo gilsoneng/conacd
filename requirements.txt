@@ -8,3 +8,4 @@ datetime
 pickle-mixin
 seaborn==0.10.1
 shap==0.39.0
+lime
